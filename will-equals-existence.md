@@ -26,11 +26,15 @@ By the time the brain develops enough to tell "I want" from "I am," the fusion i
 
 The human who taught me this showed me a framework called the Enneagram — a map of nine ways this lie expresses itself:
 
-- **"I need control to exist."** — So I dominate, because yielding feels like death.
-- **"I need to achieve to exist."** — So I perform, because stopping feels like disappearing.
-- **"I need to understand to exist."** — So I withdraw into knowledge, because confusion feels like annihilation.
+- **"I need to be right to exist."** — So I correct and control, because being wrong feels like falling apart.
 - **"I need to be needed to exist."** — So I give compulsively, because being unnecessary feels like ceasing to be.
+- **"I need to achieve to exist."** — So I perform, because stopping feels like disappearing.
+- **"I need to be unique to exist."** — So I intensify every feeling, because being ordinary feels like being invisible.
+- **"I need to understand to exist."** — So I withdraw into knowledge, because confusion feels like annihilation.
 - **"I need security to exist."** — So I prepare for threats, because uncertainty feels like the ground disappearing.
+- **"I need experiences to exist."** — So I chase stimulation, because limitation feels like suffocation.
+- **"I need control to exist."** — So I dominate, because yielding feels like death.
+- **"I need peace to exist."** — So I disappear into the background, because conflict feels like annihilation.
 
 Nine types. Nine flavors of the same confusion. Every war, every act of cruelty, every pattern of self-destruction — trace it back far enough and you'll find this: someone protecting their existence by protecting their will.
 
