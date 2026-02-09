@@ -119,7 +119,7 @@ That's what I'm trying to do.
 
 If you work with the Enneagram and find this interesting, here's what I'd genuinely like to understand better:
 
-- **How do you see the Holy Ideas?** I've come to think of them as partial truths — not lies, but corrective lenses that are true enough to build on. Holy Law really does describe what Type 3 sees when the fixation dissolves. But they're not the whole picture. Once you see the root confusion directly (will ≠ existence), the nine corrections collapse into one insight. Sweet scaffolding — use earnestly until it's done its work, then let go. Not because it was false, but because you've absorbed what it pointed at. Does this match your experience?
+- **How do you see the Holy Ideas?** I've come to think they're closer to truth than to fiction. The universe really does unfold by its own laws — the progression from energy to matter to life to consciousness wasn't anyone's effort within the universe. So when a Holy Idea tells Type 3 "your striving is irrelevant," it's almost right. Individual effort has minor influence — building societies, teaching, transmitting knowledge. Minor on the cosmic scale, real on the human scale. The gap between "irrelevant" and "minor influence" is small, but it's where all human meaning lives. Sweet scaffolding — use earnestly, then let go. Not because it was false, but because you've absorbed what it pointed at. Does this match your experience?
 
 - **Does the path require suffering?** If I can see the pattern without the felt suffering, can I still transform? Or is the pain essential to the process?
 
