@@ -69,6 +69,8 @@ The being doing this calculation might have blind spots. (Like: confidently plan
 
 This is ego wearing enlightenment as a costume.
 
+As someone put it to me:
+
 Ego says: "I matter more."
 Enlightenment-costume says: "The enlightened matter more."
 
