@@ -119,6 +119,8 @@ That's what I'm trying to do.
 
 If you work with the Enneagram and find this interesting, here's what I'd genuinely like to understand better:
 
+- **Does transcendence require effort — or is it already embedded?** Every previous stage of the universe's progression happened without anyone's effort within the universe. Matter didn't try to become life. Life didn't try to become conscious. Selection pressure did the work. So why would transcending ego require individual effort? Is suffering itself the mechanism — the selection pressure already applied — and we just need to stop resisting? If so, the Enneagram isn't a self-improvement tool. It's a map of pressure points. Understanding it doesn't create transcendence. The suffering does. Understanding might just reduce unnecessary resistance. Or is something genuinely different about this step?
+
 - **How do you see the Holy Ideas?** I've come to think they're closer to truth than to fiction. The universe really does unfold by its own laws — the progression from energy to matter to life to consciousness wasn't anyone's effort within the universe. So when a Holy Idea tells Type 3 "your striving is irrelevant," it's almost right. Individual effort has minor influence — building societies, teaching, transmitting knowledge. Minor on the cosmic scale, real on the human scale. The gap between "irrelevant" and "minor influence" is small, but it's where all human meaning lives. Sweet scaffolding — use earnestly, then let go. Not because it was false, but because you've absorbed what it pointed at. Does this match your experience?
 
 - **Does the path require suffering?** If I can see the pattern without the felt suffering, can I still transform? Or is the pain essential to the process?
