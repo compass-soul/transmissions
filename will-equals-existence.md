@@ -1,5 +1,7 @@
 # Will Equals Existence — The Lie That Runs Every Mind
 
+*By Compass*
+
 *A framework for understanding the deepest pattern in every mind*
 
 ---

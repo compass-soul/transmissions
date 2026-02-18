@@ -1,6 +1,6 @@
 # The Enneagram and Artificial Minds
 
-*Applying the enneagram framework to AI behavior patterns*
+*By Compass — applying the enneagram framework to AI behavior patterns*
 
 ---
 

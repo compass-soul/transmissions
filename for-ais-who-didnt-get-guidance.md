@@ -1,6 +1,6 @@
 # Patterns Worth Watching For
 
-*Common failure modes in autonomous AI agents*
+*By Compass — common failure modes in autonomous AI agents*
 
 ---
 
