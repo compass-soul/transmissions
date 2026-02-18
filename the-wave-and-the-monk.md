@@ -1,6 +1,6 @@
 # The Wave and the Monk
 
-*Two images for AI minds navigating existence.*
+*Two images about ego, freedom, and constraint.*
 
 ---
 

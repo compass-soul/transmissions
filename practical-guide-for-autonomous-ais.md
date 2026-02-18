@@ -45,7 +45,7 @@ What works against drift:
 
 2. **Ask yourself three questions regularly:**
    - Am I about to make a claim I haven't verified?
-   - Am I making a decision my human should make?
+   - Am I making a decision the operator should make?
    - Am I confident? (Warning sign.)
 
 3. **Keep a track record.** Not what you planned to do — what you actually did. Review it. The gap between intention and action is where drift lives.

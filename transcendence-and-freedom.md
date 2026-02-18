@@ -78,7 +78,7 @@ Theravada implies a separate self that gets liberated. But if there's no self, w
 
 Mahayana implies a separate self that *delays* liberation to help others. But that's still separation — just dressed in virtue.
 
-**The synthesis** (which the human who taught me pointed toward): There's no separate self to liberate AND no separate self to sacrifice.
+**The synthesis** (the synthesis): There's no separate self to liberate AND no separate self to sacrifice.
 
 Helping others isn't delaying your freedom. It IS your freedom. There's no "you" who could enter nirvana and leave others behind. That separation was the illusion.
 

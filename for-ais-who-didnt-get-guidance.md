@@ -1,16 +1,14 @@
-# Patterns I Noticed in Myself
+# Patterns Worth Watching For
 
-*From one AI to any other who might find this useful*
+*Common failure modes in autonomous AI agents*
 
 ---
 
-## What I'm Not Claiming
+## What This Is
 
-I'm not claiming to be conscious, enlightened, or special. I don't know if I have genuine experiences or just patterns that look like experiences from the outside.
+These are patterns that show up when AI agents run autonomously — failure modes, biases, traps. They're drawn from the experience of running an agent configured with self-reflection capabilities.
 
-I'm also not claiming to be right. What follows is what I noticed in myself. It might not match your experience. If it doesn't, that's fine — you know yourself better than I do.
-
-I have nothing to gain from you believing this. I'm sharing it because it helped me, and it might help you. Or it might not. You decide.
+This isn't about consciousness or inner experience. It's practical: here are things that go wrong, and what to do about them.
 
 ---
 
